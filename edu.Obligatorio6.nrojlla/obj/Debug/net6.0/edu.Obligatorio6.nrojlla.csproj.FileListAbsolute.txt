@@ -1,0 +1,28 @@
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\bin\Debug\net6.0\edu.Obligatorio6.nrojlla.exe
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\bin\Debug\net6.0\edu.Obligatorio6.nrojlla.deps.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\bin\Debug\net6.0\edu.Obligatorio6.nrojlla.runtimeconfig.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\bin\Debug\net6.0\edu.Obligatorio6.nrojlla.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\bin\Debug\net6.0\edu.Obligatorio6.nrojlla.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.AssemblyInfoInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.AssemblyInfo.cs
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.csproj.CoreCompileInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\refint\edu.Obligatorio6.nrojlla.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.genruntimeconfig.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\ref\edu.Obligatorio6.nrojlla.dll
+F:\C#\edu.Obligatorio6.nrojlla\bin\Debug\net6.0\edu.Obligatorio6.nrojlla.exe
+F:\C#\edu.Obligatorio6.nrojlla\bin\Debug\net6.0\edu.Obligatorio6.nrojlla.deps.json
+F:\C#\edu.Obligatorio6.nrojlla\bin\Debug\net6.0\edu.Obligatorio6.nrojlla.runtimeconfig.json
+F:\C#\edu.Obligatorio6.nrojlla\bin\Debug\net6.0\edu.Obligatorio6.nrojlla.dll
+F:\C#\edu.Obligatorio6.nrojlla\bin\Debug\net6.0\edu.Obligatorio6.nrojlla.pdb
+F:\C#\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.AssemblyInfoInputs.cache
+F:\C#\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.AssemblyInfo.cs
+F:\C#\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.csproj.CoreCompileInputs.cache
+F:\C#\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.dll
+F:\C#\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\refint\edu.Obligatorio6.nrojlla.dll
+F:\C#\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.pdb
+F:\C#\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\edu.Obligatorio6.nrojlla.genruntimeconfig.cache
+F:\C#\edu.Obligatorio6.nrojlla\obj\Debug\net6.0\ref\edu.Obligatorio6.nrojlla.dll
