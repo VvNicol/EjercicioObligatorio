@@ -36,7 +36,7 @@ namespace edu.Obligatorio6.nrojlla.Controlador
                         Console.WriteLine("------------------------------");
                         Console.WriteLine("# Ha seleccionado la opcion 2");
                         
-                        if (listCliente.Count >= 1)
+                        if (listCliente.Count >= 3)
                         {
 
                             Console.WriteLine("# Lista de clientes");
@@ -65,7 +65,7 @@ namespace edu.Obligatorio6.nrojlla.Controlador
 
                         break;
                     default:
-                        Console.WriteLine("[INFO] - La opcion seleccionada no coincide con ninguna.");
+                        Console.WriteLine("La opcion seleccionada no coincide con ninguna.");
                         break;
                 }
             }

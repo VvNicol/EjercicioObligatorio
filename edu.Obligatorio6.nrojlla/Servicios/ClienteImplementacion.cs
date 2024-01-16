@@ -31,8 +31,7 @@ namespace edu.Obligatorio6.nrojlla.Servicios
                 {
                     // Compara las edades de los clientes en las posiciones j y j+1
                     if (listCliente[j].Edad < listCliente[j + 1].Edad)
-                    {
-                        // Intercambiar elementos si están en el orden incorrecto
+                    {                       
                         ClienteDto temp = listCliente[j];
                         listCliente[j] = listCliente[j + 1];
                         listCliente[j + 1] = temp;

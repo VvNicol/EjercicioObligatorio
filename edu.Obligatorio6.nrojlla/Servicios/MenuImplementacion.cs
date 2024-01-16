@@ -13,7 +13,7 @@ namespace edu.Obligatorio6.nrojlla.Servicios
             int opcionIntroducida;
 
             Console.WriteLine("#############################");
-            Console.WriteLine("0. Cerra aplicacion");
+            Console.WriteLine("0. Cerrar aplicacion");
             Console.WriteLine("1. Dar de alta cliente");
             Console.WriteLine("2. Ordenar lista");
             Console.WriteLine("#############################");
